@@ -4,7 +4,7 @@ An intelligent movie recommendation system that combines Artificial Intelligence
 
 ---
 
-##  Key Features
+##  ✨ Key Features
 
 * Filters movies based on user-defined constraints such as genre, release year, and minimum rating.
 * Uses Constraint Satisfaction Problem (CSP) techniques to ensure recommendations satisfy all specified preferences.
@@ -18,7 +18,7 @@ An intelligent movie recommendation system that combines Artificial Intelligence
   
 ---
 
-##  Tech Stack
+## ⚙️ Tech Stack
 
 * **Language:** Python
 * **Algorithms:** A* Search, BFS, DFS, Constraint Satisfaction (CSP)
@@ -28,7 +28,7 @@ An intelligent movie recommendation system that combines Artificial Intelligence
 ---
 
 
-##  How to Run the Project
+## ▶️ How to Run the Project
 
 1. Clone the repository:
    git clone https://github.com/maryamasif1091-cpu/AI_Move_Recommender.git
