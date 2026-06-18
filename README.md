@@ -1,21 +1,21 @@
 # AI Movie Recommender System
 
-An AI-driven Movie Recommender System that takes user preferences to filter movies using Constraint Satisfaction Problems (CSP) and hybrid search algorithms (A*, BFS, DFS). 
-It uses a machine learning clustering core to analyze data and displays the top recommended movies along with their ratings, matching scores, and reasons for selection.
+An intelligent movie recommendation system that combines Artificial Intelligence, Constraint Satisfaction Problems (CSP), search algorithms, and machine learning techniques to deliver personalized movie suggestions. The system analyzes user preferences, applies constraint-based filtering, explores recommendation paths using hybrid search strategies, and presents the most relevant movies with ratings, matching scores, and explainable insights
 
 ---
 
 ##  Key Features
 
-* **Smart Filtering:** Powered by a Constraint Satisfaction Problem (CSP) module to
-                       handle strict user constraints like genres, release years, and minimum ratings.
-* **Hybrid Search Core:** Implements A* Search, Breadth-First Search (BFS), and
-                          Depth-First Search (DFS) to navigate dataset nodes efficiently.
-* **ML Clustering Core:** Groups and analyzes user behavioral metrics to generate
-                          accurate profile matching scores.
-* **Explainable Recommendations:** Not only recommends movies but also displays exactly
-                                   why a movie was selected along with its matching score and rating.
-
+* Filters movies based on user-defined constraints such as genre, release year, and minimum rating.
+* Uses Constraint Satisfaction Problem (CSP) techniques to ensure recommendations satisfy all specified preferences.
+* Implements A*, Breadth-First Search (BFS), and Depth-First Search (DFS) for efficient dataset exploration.
+* Applies K-Means Clustering to identify user behavior patterns and improve recommendation accuracy.
+* Generates personalized movie recommendations with profile matching scores.
+* Provides movie ratings alongside recommendation results.
+* Explains why each movie was selected to enhance transparency and user trust.
+* Offers an interactive analytical dashboard built with Streamlit.
+* Combines AI, search algorithms, and machine learning in a unified recommendation pipeline.
+  
 ---
 
 ##  Tech Stack
