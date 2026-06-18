@@ -7,10 +7,14 @@ It uses a machine learning clustering core to analyze data and displays the top 
 
 ##  Key Features
 
-* **Smart Filtering:** Powered by a Constraint Satisfaction Problem (CSP) module to handle strict user constraints like genres, release years, and minimum ratings.
-* **Hybrid Search Core:** Implements A* Search, Breadth-First Search (BFS), and Depth-First Search (DFS) to navigate dataset nodes efficiently.
-* **ML Clustering Core:** Groups and analyzes user behavioral metrics to generate accurate profile matching scores.
-* **Explainable Recommendations:** Not only recommends movies but also displays exactly why a movie was selected along with its structural score metrics.
+* **Smart Filtering:** Powered by a Constraint Satisfaction Problem (CSP) module to
+                       handle strict user constraints like genres, release years, and minimum ratings.
+* **Hybrid Search Core:** Implements A* Search, Breadth-First Search (BFS), and
+                          Depth-First Search (DFS) to navigate dataset nodes efficiently.
+* **ML Clustering Core:** Groups and analyzes user behavioral metrics to generate
+                          accurate profile matching scores.
+* **Explainable Recommendations:** Not only recommends movies but also displays exactly
+                                   why a movie was selected along with its matching score and rating.
 
 ---
 
@@ -23,31 +27,6 @@ It uses a machine learning clustering core to analyze data and displays the top 
 
 ---
 
-##  Project Structure
-
-AI_project/
-
-├── UI/
-
-│   └── app.py               # Main interface execution state
-
-├── modules/
-
-│   ├── csp_module.py        # Constraint Satisfaction filters
-
-│   ├── search_module.py     # A*, BFS, and DFS algorithm logic
-
-│   ├── ml_module.py         # Machine learning clustering algorithms
-
-│   └── data_loader.py       # Dataset management pipelines
-
-└── data/
-
-    ├── movies.csv           # Movie catalog data
-    
-    └── ratings.csv          # User rating datasets
-
----
 
 ##  How to Run the Project
 
