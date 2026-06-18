@@ -1,6 +1,7 @@
 # AI Movie Recommender System
 
-An AI-driven Movie Recommender System that takes user preferences to filter movies using Constraint Satisfaction Problems (CSP) and hybrid search algorithms (A*, BFS, DFS). It uses a machine learning clustering core to analyze data and displays the top recommended movies along with their ratings, matching scores, and reasons for selection.
+An AI-driven Movie Recommender System that takes user preferences to filter movies using Constraint Satisfaction Problems (CSP) and hybrid search algorithms (A*, BFS, DFS). 
+It uses a machine learning clustering core to analyze data and displays the top recommended movies along with their ratings, matching scores, and reasons for selection.
 
 ---
 
@@ -25,15 +26,25 @@ An AI-driven Movie Recommender System that takes user preferences to filter movi
 ##  Project Structure
 
 AI_project/
+
 ├── UI/
+
 │   └── app.py               # Main interface execution state
+
 ├── modules/
+
 │   ├── csp_module.py        # Constraint Satisfaction filters
+
 │   ├── search_module.py     # A*, BFS, and DFS algorithm logic
+
 │   ├── ml_module.py         # Machine learning clustering algorithms
+
 │   └── data_loader.py       # Dataset management pipelines
+
 └── data/
+
     ├── movies.csv           # Movie catalog data
+    
     └── ratings.csv          # User rating datasets
 
 ---
