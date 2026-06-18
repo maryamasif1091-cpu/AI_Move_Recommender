@@ -17,6 +17,10 @@ An intelligent movie recommendation system that combines Artificial Intelligence
 * Combines AI, search algorithms, and machine learning in a unified recommendation pipeline.
   
 ---
+## Deployment Link:
+
+https://aimoverecommender-mrg2rzdjmrc69twqntcsrd.streamlit.app/
+---
 
 ## ⚙️ Tech Stack
 
