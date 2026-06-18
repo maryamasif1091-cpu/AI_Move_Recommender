@@ -1,4 +1,4 @@
-# AI Movie Recommender System
+# 🎬 AI Movie Recommender System
 
 An intelligent movie recommendation system that combines Artificial Intelligence, Constraint Satisfaction Problems (CSP), search algorithms, and machine learning techniques to deliver personalized movie suggestions. The system analyzes user preferences, applies constraint-based filtering, explores recommendation paths using hybrid search strategies, and presents the most relevant movies with ratings, matching scores, and explainable insights
 
