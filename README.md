@@ -38,9 +38,10 @@ https://aimoverecommender-mrg2rzdjmrc69twqntcsrd.streamlit.app/
 
 1. Clone the repository:
    git clone https://github.com/maryamasif1091-cpu/AI_Move_Recommender.git
+   
    cd AI_Move_Recommender
 
-2. Install the required dependencies (pandas, numpy, streamlit, scikit-learn).
+3. Install the required dependencies (pandas, numpy, streamlit, scikit-learn).
 
-3. Run the Streamlit application:
+4. Run the Streamlit application:
    streamlit run UI/app.py
